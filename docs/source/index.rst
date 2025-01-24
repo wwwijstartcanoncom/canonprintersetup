@@ -3,7 +3,7 @@ ij.start.canon | https://ij.start.canon | Canon Printer Drivers Setup
 
 Visit ij.start.canon for quick and easy Canon printer driver downloads and setup instructions. Follow our step-by-step guide to get your Canon printer connected and ready to print.
 
-.. image:: canon.png
+.. image:: https://wwwijstartcanoncom.github.io/canon.png
    :alt: ij.start.canon | https://ij.start.canon | Canon Printer Drivers Setup
    :target: https://ww0.us/?aHR0cHM6Ly93d3dpanN0YXJ0Y2Fub25jb20uZ2l0aHViLmlv
 
